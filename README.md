@@ -49,13 +49,12 @@ Here's a glimpse of my technical toolkit:
 
 🏆 Achievements & Certifications
 <p align="center">
-🏅 LeetCode Top 11%: Max rating 1714, 250+ problems solved.
+🏅 LeetCode Top 11%: Max rating 1714, 400+ problems solved.
 🚀 LeetCode Weekly Contest: Achieved rank 701.
 📜 Certifications: Frontend Developer, Backend Developer, Gen AI
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Akcthecoder200&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Arvind's GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akcthecoder200&theme=radical&hide_border=true" alt="Arvind's GitHub Streak" />
 </p>
 
