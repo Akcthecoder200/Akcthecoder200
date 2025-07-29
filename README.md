@@ -1,23 +1,18 @@
 <h1 align="center">Hi there, I'm Arvind Kumar! 👋</h1>
 
 <p align="center">
-A passionate Electronics and Communication Engineering student with a specialization in Embedded Systems and IoT, driven by a love for full-stack development and solving complex problems with innovative solutions.
-</p>
+Full-Stack Developer | React & Node.js | GenAI | JavaScript | C++ | Python</p>
 
 🚀 About Me
-🔭 I’m currently working on HealthX, a comprehensive healthcare management system, and exploring advanced concepts in Generative AI.
+🔭 Currently working on HealthX (healthcare system) and exploring Generative AI.
 
-🌱 I’m continuously learning and expanding my expertise in cloud deployment strategies (AWS) and real-time communication technologies (WebSockets).
+🌱 Learning AWS cloud deployment and WebSockets.
 
-👯 I’m actively looking to collaborate on open-source projects in web development, AI/ML, or embedded systems.
+👯 Open to collaboration on web dev, AI/ML, or embedded systems open-source projects.
 
-💬 Ask me about full-stack development (React, Node.js, Express, Flask), database management (MongoDB, MySQL), and competitive programming strategies.
+💬 Ask me about full-stack (React, Node.js, Express, Flask), databases (MongoDB, MySQL), and competitive programming.
 
-📫 How to reach me: Feel free to connect with me on LinkedIn or drop an email at akchoudhary2411@gmail.com.
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I've solved over 400+ coding problems across various platforms!
+📫 Reach me via LinkedIn or akchoudhary2411@gmail.com.
 
 🛠️ Technical Skills & Tools
 Here's a glimpse of my technical toolkit:
@@ -52,29 +47,11 @@ Here's a glimpse of my technical toolkit:
 <img src="https://img.shields.io/badge/-CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipeline" />
 </p>
 
-💻 Personal Projects
-CodeSync
-A full-stack collaborative coding platform with live editing, whiteboard, and multi-language execution.
-
-HealthX
-Healthcare management system with multi-role portals for appointment booking and administration.
-
-Medibot
-An intelligent healthcare assistant leveraging RAG for accurate medical consultations.
-
-
 🏆 Achievements & Certifications
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Akcthecoder200&theme=radical&no-frame=true&no-bg=true" alt="Arvind's GitHub Trophies" />
-</p>
-
-LeetCode Top 11%: Ranked in the top 11% on LeetCode with a maximum rating of 1714, having solved over 250+ problems.
-
-LeetCode Weekly Contest: Achieved rank 701 in a LeetCode Weekly Contest, showcasing strong problem-solving abilities.
-
-Solved over 400+ problems across various coding platforms. (Codolio Profile)
-
-Certifications: Frontend Developer, Backend Developer, Gen AI
+🏅 LeetCode Top 11%: Max rating 1714, 250+ problems solved.
+🚀 LeetCode Weekly Contest: Achieved rank 701.
+📜 Certifications: Frontend Developer, Backend Developer, Gen AI
 
 📊 My GitHub Stats
 <p align="center">
