@@ -1,74 +1,93 @@
-<h1 align="center">Hi there, I'm Akcthecoder200! 👋</h1>
+<h1 align="center">Hi there, I'm Arvind Kumar! 👋</h1>
 
 <p align="center">
-  A passionate [Your Role/Interest - e.g., Full-Stack Developer, AI Enthusiast, Student] who loves building interesting things and solving complex problems.
+A passionate Electronics and Communication Engineering student with a specialization in Embedded Systems and IoT, driven by a love for full-stack development and solving complex problems with innovative solutions.
 </p>
 
----
+🚀 About Me
+🔭 I’m currently working on HealthX, a comprehensive healthcare management system, and exploring advanced concepts in Generative AI.
 
-### 🚀 About Me
+🌱 I’m continuously learning and expanding my expertise in cloud deployment strategies (AWS) and real-time communication technologies (WebSockets).
 
-- 🔭 I’m currently working on **[Project Name/Type of Project]** – [brief description, e.g., a web application for task management, an AI model for natural language processing].
-- 🌱 I’m currently diving deep into **[Technology/Concept you're learning - e.g., React hooks, Kubernetes, Generative AI]**.
-- 👯 I’m looking to collaborate on **open-source projects related to [Your Interest/Stack - e.g., web development, data science, mobile apps]**.
-- 🤔 I’m looking for help with **[Specific problem or technology you're struggling with or need guidance on]**.
-- 💬 Ask me about **[Topics you're knowledgeable or passionate about - e.g., JavaScript, Python, cloud computing, competitive programming]**.
-- 📫 How to reach me: You can find me on [LinkedIn/Twitter/Your Personal Website] or shoot me an email at [your.email@example.com]
-- 😄 Pronouns: **[Your Pronouns - e.g., He/Him, She/Her, They/Them]**
-- ⚡ Fun fact: **[A quirky or interesting fact about yourself - e.g., I can solve a Rubik's cube in under a minute, I love hiking, I'm a huge fan of vintage video games]**
+👯 I’m actively looking to collaborate on open-source projects in web development, AI/ML, or embedded systems.
 
----
+💬 Ask me about full-stack development (React, Node.js, Express, Flask), database management (MongoDB, MySQL), and competitive programming strategies.
 
-### 🛠️ Technologies & Tools
+📫 How to reach me: Feel free to connect with me on LinkedIn or drop an email at akchoudhary2411@gmail.com.
 
-Here are some of the technologies I've been working with:
+😄 Pronouns: He/Him
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </p>
+⚡ Fun fact: I've solved over 400+ coding problems across various platforms!
 
----
-
-### 📊 GitHub Stats
+🛠️ Technical Skills & Tools
+Here's a glimpse of my technical toolkit:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akcthecoder200&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Akcthecoder200's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akcthecoder200&theme=radical&hide_border=true" alt="Akcthecoder200's GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Akcthecoder200&theme=radical&no-frame=true&no-bg=true" alt="Akcthecoder200's GitHub Trophies" />
+<!-- Languages -->
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<br>
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<br>
+<!-- Databases & Cloud -->
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+<br>
+<!-- Developer Tools & Technologies -->
+<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/-WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" />
+<img src="https://img.shields.io/badge/-CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD Pipeline" />
 </p>
 
----
+💻 Personal Projects
+CodeSync
+A full-stack collaborative coding platform with live editing, whiteboard, and multi-language execution.
 
-### Connect with me:
+HealthX
+Healthcare management system with multi-role portals for appointment booking and administration.
 
+Medibot
+An intelligent healthcare assistant leveraging RAG for accurate medical consultations.
+
+
+🏆 Achievements & Certifications
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourpersonalwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-FF7700?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  </p>
+<img src="https://github-profile-trophy.vercel.app/?username=Akcthecoder200&theme=radical&no-frame=true&no-bg=true" alt="Arvind's GitHub Trophies" />
+</p>
 
----
+LeetCode Top 11%: Ranked in the top 11% on LeetCode with a maximum rating of 1714, having solved over 250+ problems.
 
-⭐️ From Akcthecoder200
+LeetCode Weekly Contest: Achieved rank 701 in a LeetCode Weekly Contest, showcasing strong problem-solving abilities.
+
+Solved over 400+ problems across various coding platforms. (Codolio Profile)
+
+Certifications: Frontend Developer, Backend Developer, Gen AI
+
+📊 My GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Akcthecoder200&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Arvind's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akcthecoder200&theme=radical&hide_border=true" alt="Arvind's GitHub Streak" />
+</p>
+
+Connect with me:
+<p align="center">
+<a href="https://www.linkedin.com/in/arvindk2/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://leetcode.com/u/cryptic_x/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
+</p>
