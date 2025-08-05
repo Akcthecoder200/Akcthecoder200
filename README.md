@@ -53,10 +53,7 @@ Here's a glimpse of my technical toolkit:
 🚀 LeetCode Weekly Contest: Achieved rank 701.
 📜 Certifications: Frontend Developer, Backend Developer, Gen AI
 
-📊 My GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akcthecoder200&theme=radical&hide_border=true" alt="Arvind's GitHub Streak" />
-</p>
+
 
 Connect with me:
 <p align="center">
